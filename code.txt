@@ -1,1 +1,2 @@
 this is the first file created
+I'm editing this file to understand how jenkins poll scm works
